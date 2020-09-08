@@ -1,0 +1,5 @@
+ft_gkrellm
+libs/
+.logs
+objs/
+.vscode/
